@@ -44,7 +44,7 @@ Build and run the app
 
 Browse and enjoy your music!
 
-👨‍💻 Author
+👨‍💻 
 Author: [Lazizbek Mamadiyorov]
 
 Contact: [mamadiyorovlazizbek97@gmail.com]
